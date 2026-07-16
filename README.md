@@ -1,7 +1,5 @@
 # E-LEAD: Efficient LLM-Enhanced Node Anomaly Detection in Text-attributed Graphs
 
-<img src="https://raw.githubusercontent.com/lisiwei19/E-LEAD/main/%E5%9B%BE%E7%89%872.png" width="100%">
-
 
 
 ## Datasets
