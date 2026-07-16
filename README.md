@@ -50,8 +50,6 @@ python run.py --mode test --dataset cora
 
 ## LLM Semantic Review
 
-E-LEAD supports LLM-assisted anomaly semantic evaluation.
-
 Set your API key:
 
 ``` bash
