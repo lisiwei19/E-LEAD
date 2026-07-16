@@ -2,9 +2,6 @@
 
 `<img src="./assets/framework.png" width="100%">`{=html}
 
-E-LEAD is an efficient LLM-enhanced framework for node anomaly detection
-in text-attributed graphs.
-
 
 ## Datasets
 
