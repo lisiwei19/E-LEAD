@@ -1,4 +1,4 @@
-# E-LEAD: Efficient LLM-Enhanced Node Anomaly Detection in Text-attributed Graphs
+# E-LEAD: Efficient LLM-Enhanced Anomaly Detection in Text-attributed Graphs
 
 ![Overview](overview.png)
 
